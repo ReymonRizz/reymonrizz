@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi I'm Reymond!<br>I am a Back End developer who likes to work with JavaScript/Typescript & PHP. I’m currently learning Java
+Hi I'm Reymond!<br>I am a Back End developer who likes to work with JavaScript & PHP.<br>
+I’m currently learning Java
 
 # 💻 Tech Stack:
 <!-- Programming Languages -->
