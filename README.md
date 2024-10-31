@@ -26,7 +26,6 @@ Hi I'm Reymond!<br>I am a Back End developer who likes to work with JavaScript/T
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 
 # 📊 GitHub Stats:
-Big Fan of JavaScript HEHEHE🤑🤑🤑
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ReymonRizz&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
